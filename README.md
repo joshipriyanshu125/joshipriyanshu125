@@ -215,12 +215,12 @@
 <h2 align="left">🔥 Live GitHub Activity & Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshipriyanshu125&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38BDF8&icon_color=F7DF1E&text_color=94A3B8&bg_color=0D1117" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshipriyanshu125&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=0D1117" height="175" alt="Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=joshipriyanshu125&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joshipriyanshu125&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshipriyanshu125&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=FF7A00&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=joshipriyanshu125&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=FF7A00&currStreakLabel=38BDF8" alt="GitHub Streak" />
 </p>
 
 <p align="center">
