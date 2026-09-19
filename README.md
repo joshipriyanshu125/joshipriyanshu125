@@ -172,7 +172,7 @@
         <li><b>AI Engine:</b> Tailored role-matching recommendations via LLMs.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/joshipriyanshu125/resume_analyzer" target="_blank"><b>View Repository ↗</b></a>
+        <a href="https://github.com/joshipriyanshu125/resume_analyzer" target="_blank"><b>View Repository ↗</b></a> &nbsp;|&nbsp; <a href="https://resume-analyzer1-zeta.vercel.app/" target="_blank"><b>Live Demo 🌐</b></a>
       </p>
     </td>
   </tr>
