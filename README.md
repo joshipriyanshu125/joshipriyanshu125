@@ -25,7 +25,7 @@
 <!-- HERO SECTION: 2 COLUMNS (Text + Illustration) -->
 <table>
   <tr>
-    <td width="58%" valign="top">
+    <td width="55%" valign="top">
       <h3 align="left">👨‍💻 About Me</h3>
       <p align="left">
         🎓 <b>Final-Year B.Tech CSE Student</b> at <i>Birla Institute of Applied Sciences, Bhimtal</i>.<br/>
@@ -35,13 +35,13 @@
       </p>
       <br/>
       <p align="left">
-        🌱 <b>Currently focused on:</b> Next-generation AI Agents & Scalable Cloud Microservices<br/>
+        🌱 <b>Currently focused on:</b> Autonomous AI Agents, RAG Pipelines & Cloud Microservices<br/>
         📬 <b>Reach me at:</b> <a href="mailto:joshipriyanshu125@gmail.com">joshipriyanshu125@gmail.com</a><br/>
         🌐 <b>Portfolio:</b> <a href="https://portfolio-site-eight-pi-33.vercel.app" target="_blank">portfolio-site-eight-pi-33.vercel.app</a>
       </p>
     </td>
-    <td width="42%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding Animation" style="border-radius: 12px;" />
+    <td width="45%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/joshipriyanshu125/joshipriyanshu125/main/assets/developer-setup.jpg" width="100%" alt="Developer Workspace Setup" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
@@ -97,6 +97,7 @@
   <tr>
     <td><b>AI & GenAI</b></td>
     <td>
+      <img src="https://img.shields.io/badge/Deep_Research_AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="Deep Research" />
       <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
       <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
       <img src="https://img.shields.io/badge/RAG_Systems-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG" />
@@ -142,11 +143,28 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">🤖 AI Resume Builder</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🔍 Deep Research AI</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/AI_Agent-Autonomous-8B5CF6?style=flat-square" />
+        <img src="https://img.shields.io/badge/LLMs-RAG-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Multi--Step-Research-blue?style=flat-square" />
+      </p>
+      <ul>
+        <li><b>Autonomous Deep Search:</b> Performs multi-step recursive web searches and crawls relevant data sources.</li>
+        <li><b>Intelligent Synthesis:</b> Summarizes complex topics, fact-checks citations, and produces structured markdown reports.</li>
+        <li><b>Agentic Workflow:</b> Dynamic query refinement and hallucination-free content generation.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/joshipriyanshu125/deep_research_ai"><b>View Repository ↗</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 AI Resume Analyzer & Builder</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/MERN-FullStack-green?style=flat-square" />
         <img src="https://img.shields.io/badge/OpenRouter-LLM-purple?style=flat-square" />
+        <img src="https://img.shields.io/badge/ATS-Scoring-teal?style=flat-square" />
       </p>
       <ul>
         <li><b>ATS Optimization:</b> Missing skill detection, ATS scoring & keyword tuning.</li>
@@ -154,14 +172,17 @@
         <li><b>AI Engine:</b> Tailored role-matching recommendations via LLMs.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/joshipriyanshu125"><b>View Code ↗</b></a>
+        <a href="https://github.com/joshipriyanshu125"><b>View Repository ↗</b></a>
       </p>
     </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🏥 Council Hub Platform</h3>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏥 Council Hub (Student Counselling Platform)</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/React-Node.js-blue?style=flat-square" />
         <img src="https://img.shields.io/badge/WebRTC-Chat-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/RBAC-Auth-red?style=flat-square" />
       </p>
       <ul>
         <li><b>Counselling Hub:</b> Student-counsellor booking & record management.</li>
@@ -169,14 +190,15 @@
         <li><b>RBAC Security:</b> Protected role-based data access & MongoDB schemas.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/joshipriyanshu125"><b>View Code ↗</b></a>
+        <a href="https://github.com/joshipriyanshu125"><b>View Repository ↗</b></a>
       </p>
     </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🛍️ AI Gen-Z Fashion E-Com</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🛍️ AI Gen-Z Fashion E-Commerce</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Redux_Toolkit-Cloudinary-red?style=flat-square" />
         <img src="https://img.shields.io/badge/AI_Assistant-GenAI-violet?style=flat-square" />
+        <img src="https://img.shields.io/badge/Full-Storefront-brightgreen?style=flat-square" />
       </p>
       <ul>
         <li><b>Full Storefront:</b> Cart, checkout, dynamic order tracking & reviews.</li>
@@ -184,7 +206,7 @@
         <li><b>Admin Suite:</b> Product CRUD, media pipeline & JWT protection.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/joshipriyanshu125"><b>View Code ↗</b></a>
+        <a href="https://github.com/joshipriyanshu125"><b>View Repository ↗</b></a>
       </p>
     </td>
   </tr>
