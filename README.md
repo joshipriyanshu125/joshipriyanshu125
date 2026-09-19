@@ -156,7 +156,7 @@
         <li><b>Agentic Workflow:</b> Dynamic query refinement and hallucination-free content generation.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/joshipriyanshu125/deep_research_ai"><b>View Repository ↗</b></a>
+        <a href="https://github.com/joshipriyanshu125/deep_research_ai" target="_blank"><b>View Repository ↗</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -172,7 +172,7 @@
         <li><b>AI Engine:</b> Tailored role-matching recommendations via LLMs.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/joshipriyanshu125"><b>View Repository ↗</b></a>
+        <a href="https://github.com/joshipriyanshu125/resume_analyzer" target="_blank"><b>View Repository ↗</b></a>
       </p>
     </td>
   </tr>
@@ -190,7 +190,7 @@
         <li><b>RBAC Security:</b> Protected role-based data access & MongoDB schemas.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/joshipriyanshu125"><b>View Repository ↗</b></a>
+        <a href="https://github.com/joshipriyanshu125/student-counselling" target="_blank"><b>View Repository ↗</b></a> &nbsp;|&nbsp; <a href="https://student-counselling-virid.vercel.app" target="_blank"><b>Live Demo 🌐</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -206,7 +206,7 @@
         <li><b>Admin Suite:</b> Product CRUD, media pipeline & JWT protection.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/joshipriyanshu125"><b>View Repository ↗</b></a>
+        <a href="https://github.com/joshipriyanshu125/e-commerce" target="_blank"><b>View Repository ↗</b></a> &nbsp;|&nbsp; <a href="https://e-commerce-eosin-one-13.vercel.app" target="_blank"><b>Live Demo 🌐</b></a>
       </p>
     </td>
   </tr>
